@@ -1,4 +1,4 @@
-This is a webhooks spammer made by devil its the fastest spammer u just have to paste ur webhook url in console and it will start spamming automatically
+This is a webhook spammer made by devil its the fastest spammer u just have to paste ur webhook url in console and it will start spamming automatically
 
 how to use this spammer
 open the console
