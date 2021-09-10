@@ -14,7 +14,7 @@ def send():
 # SETTINGS
 webhookurl = 'Your webhook here!'
 
-changewh = input("Do you want to change the web hook url, say Y if you haven't changed it in the file else say N. (Y/N) > ")
+changewh = input("Do you want to change the web hook url, say y if you haven't changed it in the file else say N. (y/n) > ")
 if changewh == "y":
     webhookurl = input("You have chosen to change the web hook url, paste it here and press enter. > ")
 
